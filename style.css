@@ -1,0 +1,18 @@
+.box{
+    min-height: 50px;
+    line-height: 50px;
+    background-color: aquamarine;
+    text-align: center;
+    border: 2px solid black;
+    margin: 1px;
+}
+
+.inside-box{
+    min-height: 30px;
+    line-height: 50px;
+    background-color: rgb(74, 37, 178);
+    text-align: center;
+    border: 2px solid black;
+    margin: 1px;
+}
+
