@@ -1,13 +1,16 @@
 .box{
+    display: flex;
     min-height: 50px;
     line-height: 50px;
     background-color: aquamarine;
     text-align: center;
     border: 2px solid black;
     margin: 1px;
+    padding: 5px;
 }
 
 .inside-box{
+    margin: 1rem;
     min-height: 30px;
     line-height: 50px;
     background-color: rgb(74, 37, 178);
